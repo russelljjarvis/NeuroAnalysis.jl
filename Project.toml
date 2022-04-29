@@ -4,7 +4,6 @@ authors = ["Li Alex Zhang <fff008@gmail.com>"]
 version = "1.0.1"
 
 [deps]
-ANOVA = "0825541b-7374-5e1e-93bd-72e337c8a986"
 CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
 CircStats = "2f6764a1-d620-4564-9394-76eb7c776766"
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
@@ -41,7 +40,6 @@ VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
-ANOVA = "0.2"
 BenchmarkTools = "1"
 CategoricalArrays = "0.10"
 CircStats = "1"
